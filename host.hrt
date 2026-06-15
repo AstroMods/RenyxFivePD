@@ -1,4 +1,4 @@
-# cname
+# cname - server-patrol.fucked.gg:21
 location:/ftpserver
 port:/80 -s
 docker:fivem
