@@ -1,0 +1,4 @@
+# cname
+location:/ftpserver
+port:/80 -s
+docker:fivem
